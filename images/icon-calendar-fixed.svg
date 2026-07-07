@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="Calendar">
+  <circle cx="48" cy="48" r="46" fill="#E21B1B"/>
+  <rect x="24" y="27" width="48" height="45" rx="5" fill="#ffffff"/>
+  <rect x="24" y="35" width="48" height="10" fill="#E21B1B"/>
+  <rect x="32" y="20" width="7" height="18" rx="3" fill="#ffffff"/>
+  <rect x="57" y="20" width="7" height="18" rx="3" fill="#ffffff"/>
+  <g fill="#E21B1B">
+    <rect x="32" y="50" width="7" height="7" rx="1"/>
+    <rect x="45" y="50" width="7" height="7" rx="1"/>
+    <rect x="58" y="50" width="7" height="7" rx="1"/>
+    <rect x="32" y="62" width="7" height="7" rx="1"/>
+    <rect x="45" y="62" width="7" height="7" rx="1"/>
+    <rect x="58" y="62" width="7" height="7" rx="1"/>
+  </g>
+</svg>
